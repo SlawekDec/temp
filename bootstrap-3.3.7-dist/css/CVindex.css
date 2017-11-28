@@ -8,7 +8,7 @@
 }
 
 #image img {
-    width: 57%;
+    width: 60%;
     height: auto;
     clear: both;
 
@@ -45,7 +45,7 @@ h4 {
 ul {
 	list-style-type: none;
 	margin-top: 10px;
-	margin-bottom: 15px;
+	margin-bottom: 0px;
 	padding-left: 0px;
 }
 
@@ -71,7 +71,7 @@ ul {
 .middle-row2 {
 	background: linear-gradient(-120deg, #777 0%, #eee 50%);
 	width: 837.5px;
-	height: 1630px;
+	height: 1680px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-top: 20px;
@@ -96,7 +96,7 @@ ul {
 .bottom-row {
 	width: 1150px;
 	background: #eee;
-	height: 50px;
+	height: 185px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-right: 10px;
@@ -159,4 +159,12 @@ ul {
 
 .textpadding{
 	padding: 8px;
+}
+
+.space1 {
+	margin-bottom: 30px;
+} 
+
+.space2 {
+	margin-bottom: 20px;
 }
